@@ -1,0 +1,13 @@
+#EXTINF:0,#EXTINF:-1, ITV2
+http://37.48.118.32/live/itv2.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:-1, ITV3
+http://37.48.118.32/live/itv3.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:-1, ITV4
+http://37.48.118.32/live/itv4.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:-1, Animal planet
+http://37.48.118.32/live/animal.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:-1, Film 4
+http://37.48.118.32/live/film4.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:-1, 5 usa
+http://37.48.118.32/live/5usa.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:-1, Sky arts 1 & 2
